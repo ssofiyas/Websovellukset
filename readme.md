@@ -1,0 +1,1 @@
+Tama on web kehityksen kurssin repositorio. Tanne tallennan jokaisen moodulin tyopajatehtavat, omiin kansioihinsa. 
