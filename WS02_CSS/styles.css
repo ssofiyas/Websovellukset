@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+} 
+/* Center text on the page */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Centers vertically */
+    height: 100vh; /* Full viewport height */
+    flex-direction: column;
+    background-color: rgb(247, 169, 169); /* Optional: Background color */
+    text-align: center; /* Centers all text inside the body */
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    color: rgb(246, 160, 94);
+}
+
