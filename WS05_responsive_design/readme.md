@@ -1,0 +1,1 @@
+Tanne teen kaikki WS05_responsive_design tyopajatehtavat.
