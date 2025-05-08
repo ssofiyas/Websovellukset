@@ -1,0 +1,1 @@
+Tanne kansio teen tehtavan numero 6, koskien Bootstrap harjoittelua.

@@ -1,0 +1,107 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(./background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+  }
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  
+  @media (max-width: 600px) {
+    .responsive-box {
+      background-color: lightcoral;
+    }
+  }
+  
+  @media (min-width: 601px) {
+    .responsive-box {
+      background-color: lightseagreen;
+    }
+  }
+  h1 {
+    font-size: 2.5em;
+    color: rgb(255, 129, 50);
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 1.2em;
+    color: rgb(40, 40, 40);
+    margin-bottom: 20px;
+  }
+
+  
+    .footer {
+        background-color: #333;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+    }       
+    .footer p {
+        margin: 0;
+    }
+    .footer a {
+        color: rgb(248, 27, 27);
+        text-decoration: none;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    body {
+        text-align: center; 
+    }
+    
+
+   .flex-container{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+   }
+
+   .custom-img {
+    width: auto;
+    height: auto;
+    margin: 0 auto; /* Centers the image */
+  }
+
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  .navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  body {
+    background-color: #78b8f8; /* Replace with your desired color */
+  }
